@@ -49,4 +49,4 @@ After submitting the city name, the app fetches weather data from the OpenWeathe
 
 - Template Rendering: Renders the home page with weather data.
 
-![Description](WeatherApp-ezgif.com-video-to-gif-converter.gif)
+![Description](WeatherApp.gif)
